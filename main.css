@@ -249,7 +249,7 @@ footer {
   padding: 20px;
 }
 
-footer .container {
+{
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-template-rows: repeat(2, 1fr);
@@ -367,7 +367,7 @@ footer a:hover {
   footer .container {
     display: flex !important;
     flex-direction: column;
-    justify-content: center;ù
+    justify-content: center;
     align-items: center;
   }
   .icon-link img:nth-child(2) {
